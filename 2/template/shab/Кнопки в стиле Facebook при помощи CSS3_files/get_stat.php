@@ -1,1 +1,0 @@
-internet_yadro_stats="-1";
