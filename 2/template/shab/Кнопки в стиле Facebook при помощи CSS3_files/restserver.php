@@ -1,0 +1,1 @@
+fb_sharepro_render([{"url":"http:\/\/mainview.ru\/css\/knopki-v-stile-facebook-pri-pomoshhi-css3","normalized_url":"http:\/\/www.mainview.ru\/css\/knopki-v-stile-facebook-pri-pomoshhi-css3","share_count":2,"like_count":4,"comment_count":2,"total_count":8,"click_count":0,"comments_fbid":10150169977626684,"commentsbox_count":0}]);

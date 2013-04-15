@@ -1,0 +1,1 @@
+window.tnSetParams(177588,{"h":4,"v":1,"hide_after_close":0});window.tnSetStyle(".tblock_177588{width:600px;height:185px;background:#FFFFFF;}  .tblock_177588__10{height:209px;}  .tblock_177588__01{height:202px;}  .tblock_177588__11{height:226px;} ");window.tnLoadBlocks();

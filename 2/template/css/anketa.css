@@ -1,0 +1,73 @@
+/*
+© ManUcoz.ru, 2011
+Author: byucoz@yandex.ru
+Author URI: http://manucoz.ru
+*/
+
+/* ОСНОВА 
+============================================================================*/
+
+body  {
+margin: 0 auto;
+ padding: 0;
+ width: 100%;
+ height: 100%;
+ background:#f4f4f4 url(../img/bg.gif) repeat top left;
+ }
+body,
+td      {font:11px Verdana,Arial,Helvetica, sans-serif; color:#555;}
+img     {border: none;}
+
+a          {text-decoration:none; outline: none;}
+a:link     {text-decoration:none; color:#2C68A6;}
+a:visited  {text-decoration:none; color:#2C68A6;}
+a:hover    {text-decoration:none; color:#FF3434;}
+
+/* Основной каркас
+------------------------------------------*/
+#container        {margin: 0px auto; width:700px; height:100%; }
+#container_os     {margin: 25px 0px 25px 0px; background: #fff; border:1px solid #C9C9C9;}
+#anketa_heder     {width:700px; height:30px; background: #D9D9D9;}
+#anketa_content   {overflow: hidden; padding: 10px 15px 10px 15px;}
+.anketa_info      {width:453px; margin-right: 15px; }
+.anketa_foto      {width:200px;}
+/* -------------------------------------- */
+
+/* Шапка анкеты
+------------------------------------------*/
+#anketa_heder h2 {text-align:right; font:17px Verdana,Arial,Helvetica, sans-serif; color:#fff; text-shadow: 1px 1px 1px #555; font-weight: bold; margin: 0px; padding: 3px 15px 0px 15px;}
+/* -------------------------------------- */
+
+/* Левая сторона анкеты
+------------------------------------------*/
+.c_uzer,
+.i_uzer  {padding: 3px 0px 3px 0px;}
+.uzer-1  {padding: 0px 0px 3px 0px;}
+
+.c_uzer,
+.i_uzer, 
+.uzer-1   {float:left; width:100%; font:10px Verdana,Arial,Helvetica, sans-serif; color:#666; border-bottom: 1px solid #D6D6D6;}
+.uzer-2   {float:left; width:100%; text-align:justify;  font: 115%/1.5 Verdana,Arial,Helvetica, sans-serif; padding: 5px 0px;}
+.c_uzer   {float:left;  border-bottom: 1px solid #D6D6D6; padding: 3px 0px;}
+.c_uzer-1 {float:left; width:151px;}
+.c_uzer-2 {float:left; width:302px;}
+/* -------------------------------------- */
+
+/* Правая сторона анкеты
+------------------------------------------*/
+.iuzer-1,   
+.iuzer-2         {float:left; width:100px;}
+.cell_fotografia {float:left; width:200px; height:250px; background: url('../img/fon_foto_net.png') #fff center no-repeat; border:1px solid #D6D6D6; margin: 15px 0px;}
+/* -------------------------------------- */
+
+/*  =====================================================================*/
+
+
+/*ДОПОЛНИТЕЛЬНЫЕ ТЕГИ
+ ========================================================================*/
+.left      {float:left;}
+.right    {float:right;}
+
+.img  a:hover img
+{filter: progid: DXImageTransform.Microsoft.Alpha(opacity=50);  -moz-opacity: 0.5; opacity: 0.5; filter: alpha(opacity=50);}
+/*  =====================================================================*/
