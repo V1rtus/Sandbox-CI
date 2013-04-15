@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost'; // Указываем хост
 $db['default']['username'] = 'zeus';  //Указываем пользователя
-$db['default']['password'] = '123456';
+$db['default']['password'] = '123456'; //пароль
 $db['default']['database'] = 'hook';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
