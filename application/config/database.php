@@ -48,8 +48,8 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'zeus';
+$db['default']['hostname'] = 'localhost'; // Указываем хост
+$db['default']['username'] = 'zeus';  //Указываем пользователя
 $db['default']['password'] = '123456';
 $db['default']['database'] = 'hook';
 $db['default']['dbdriver'] = 'mysql';
